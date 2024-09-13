@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Hello! I'm Yeji Sohn, currently pursuing a Master in Data Science at the 
+  University of British Columbia. Based in Vancouver, I am passionate about harnessing the power
+  of data uncover insights and drive innovation.
